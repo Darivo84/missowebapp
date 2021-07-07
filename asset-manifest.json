@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/missowebapp/static/js/main.06cb837f.chunk.js",
-    "main.js.map": "/missowebapp/static/js/main.06cb837f.chunk.js.map",
+    "main.js": "/missowebapp/static/js/main.7b1990ca.chunk.js",
+    "main.js.map": "/missowebapp/static/js/main.7b1990ca.chunk.js.map",
     "runtime-main.js": "/missowebapp/static/js/runtime-main.fd616983.js",
     "runtime-main.js.map": "/missowebapp/static/js/runtime-main.fd616983.js.map",
     "static/js/2.891e1cec.chunk.js": "/missowebapp/static/js/2.891e1cec.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.fd616983.js",
     "static/js/2.891e1cec.chunk.js",
-    "static/js/main.06cb837f.chunk.js"
+    "static/js/main.7b1990ca.chunk.js"
   ]
 }
